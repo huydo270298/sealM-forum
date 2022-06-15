@@ -1,0 +1,6 @@
+# PSDs
+/psd
+/@psd
+*.psd
+
+node_modules/
